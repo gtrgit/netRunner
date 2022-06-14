@@ -23,5 +23,8 @@
   },
   "dependencies": {
     "dcldash": "^0.0.33"
-  }
+  },
+  "bundledDependencies": [
+    "dcldash"
+  ]
 }
